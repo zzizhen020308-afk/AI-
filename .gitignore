@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# 密钥：绝不入库
+.env
+
+# 引擎运行日志（草稿和反馈要入库，日志不必）
+.novel/log.jsonl
+
+# 编辑器 / 系统
+.DS_Store
+.idea/
+.vscode/
