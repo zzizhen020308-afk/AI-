@@ -36,7 +36,7 @@
       ],
       "status": "accepted",
       "rounds": 3,
-      "current_revision": 4,
+      "current_revision": 5,
       "target_words": 6000
     },
     {
@@ -53,7 +53,7 @@
       "number": 3,
       "status": "in_review",
       "rounds": 2,
-      "current_revision": 3,
+      "current_revision": 4,
       "target_words": 6000
     },
     {
