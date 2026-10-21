@@ -7,7 +7,7 @@
   "auto_fix": true,
   "default_target_words": 3000,
   "created_at": "2026-10-19T04:03:34+00:00",
-  "updated_at": "2026-10-21T04:03:27+00:00",
+  "updated_at": "2026-10-21T08:43:22+00:00",
   "chapters": [
     {
       "number": 1,
@@ -40,8 +40,8 @@
       "target_words": 6000
     },
     {
+      "number": 3,
       "title": "魔药课上的刀",
-      "pov": "德拉柯",
       "beats": [
         "【德拉柯视角】湖底寝室：梳头三十下、换手套、母亲的信“别惹不必要的注意”、写回信时划掉“禁闭”",
         "【德拉柯视角】早饭：报纸上的古灵阁金库门、布雷斯的观察、走廊议论“他昨晚跟马尔福说了什么”",
@@ -50,8 +50,7 @@
         "【德拉柯视角】禁闭：手套、月长石与醋、替人背锅的动机、父亲“会觉得丢脸”、哈利“这里没人替我说话”",
         "【德拉柯视角】收束：她说“我说话一向算数”，画像调侃，回到寝室，睡梦里笑，划掉“我一切都好”"
       ],
-      "number": 3,
-      "status": "in_review",
+      "status": "accepted",
       "rounds": 2,
       "current_revision": 13,
       "target_words": 6000
@@ -66,9 +65,9 @@
         "【哈利视角】回程谁都没提刚才的事；他发现自己记得她手腕的温度，于是更烦她，一晚上没睡好"
       ],
       "number": 4,
-      "status": "planned",
-      "rounds": 0,
-      "current_revision": 0,
+      "status": "in_review",
+      "rounds": 1,
+      "current_revision": 1,
       "target_words": 6000
     },
     {
